@@ -1,8 +1,8 @@
-# Mehmoodshahidawan
-[![MasterHead](https://www.google.com/imgres?q=animated%20coding%20gif%20for%20github%20%20banner&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&docid=nxNmoQzSx2czBM&tbnid=MwozBsUeOfn96M&vet=12ahUKEwjWzqDu46yKAxVVgf0HHS9ELeoQM3oECBwQAA..i&w=498&h=249&hcb=2&ved=2ahUKEwjWzqDu46yKAxVVgf0HHS9ELeoQM3oECBwQAA)
+
 <h1 align="center">Hi 👋, I'm Mehmood Shahid Awan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fa615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57%2F68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966&imgrefurl=https%3A%2F%2Fgithub.com%2FCoding-Meet&docid=Dne0I_MeaooiwM&tbnid=35X6L1D39_KDvM&vet=12ahUKEwiC6tyi46yKAxUzg_0HHc8zAPoQM3oECB8QAA..i&w=500&h=500&hcb=2&ved=2ahUKEwiC6tyi46yKAxUzg_0HHc8zAPoQM3oECB8QAA")
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmoodshahidawan8&label=Profile%20views&color=0e75b6&style=flat" alt="mehmoodshahidawan8" /> </p>
 
